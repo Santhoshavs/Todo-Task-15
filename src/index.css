@@ -1,0 +1,29 @@
+.HeaderColor{
+  color:rgb(12, 174, 158);
+  font-family:sans-serif;
+  font-weight: bolder;
+}
+input{
+  border-radius: 10px;
+  height:50px;
+  width: 200px;
+  text-align: center;
+  color:rgb(2, 2, 2);
+}
+
+button{
+  background-color:rgb(61, 205, 205);
+  color: rgb(246, 246, 246);
+  padding: 10px;
+  width: 20vh;
+  border-radius: 10px;
+  font-weight: bolder;
+  margin: 0em 3em 1em 3em;
+}
+.card{
+  background-color: rgb(120, 228, 228);
+  color: rgb(0, 0, 0);
+}
+.dropdown-menu{
+  cursor: pointer;
+}
